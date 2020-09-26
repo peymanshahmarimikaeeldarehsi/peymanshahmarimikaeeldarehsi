@@ -8,4 +8,4 @@
 
 :link: &nbsp;&nbsp; [web page](http://peymanshahmarimikaeeldarehsi.github.io/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peymanshahmarimikaeeldarehsi)](https://github.com/anuraghazra/github-readme-stats)
+[![peymanshahmarimikaeeldarehsi's github stats](https://github-readme-stats.vercel.app/api?username=peymanshahmarimikaeeldarehsi)](https://github.com/peymanshahmarimikaeeldarehsi/github-readme-stats)
